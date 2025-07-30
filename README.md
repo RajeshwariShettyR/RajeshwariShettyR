@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RajeshwariShettyR
-- 👀 I’m interested in Coding,Exploring new things...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on exciting projects,internships for now...
+- 👋 Hi, I’m @RajeshwariShettyR, a techEnthusiast
+- 👀 I’m interested in Technology, programming and development
+- 🌱 System Engineer at Infosys Limited
+- 💞️ Ex- Software Developer Intern at Singla  Software Consultancy
 - 📫 How to reach me is with my linkedIn www.linkedin.com/in/
 rajeshwari-shetty-r-237182259
 
